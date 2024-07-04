@@ -44,6 +44,14 @@ def load_data(city, month, day):
 
     return df
 
+# Test Test
+
+# This is a comment to add for the git project and add a comment and a simple command
+print("1+1 equals to 2")
+
+
+# Another edit for the refactoring branch
+print("Refactoring")
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
@@ -136,11 +144,4 @@ def main():
 if __name__ == "__main__":
 	main()
 
-
-# This is a comment to add for the git project and add a comment and a simple command
-print("1+1 equals to 2")
-
-
-# Another edit for the refactoring branch
-print("Refactoring")
 
