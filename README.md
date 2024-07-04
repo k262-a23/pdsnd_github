@@ -21,17 +21,12 @@ https://phoenixnap.com/kb/git-switch-branch
 https://www.w3schools.com/git/git_ignore.asp?remote=github
 
 
-### Edit #2
+### Edit #1
+Hello!
 
+
+### Edit #2
+More Edits
 
 ### Edit #3
-
-
-### Edit #4
-abcde
-
-### Edit #5
-hello!
-
-
-Even more edits!
+Last Edits
