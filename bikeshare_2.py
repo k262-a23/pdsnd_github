@@ -139,11 +139,25 @@ if __name__ == "__main__":
 # Adding a comment for git practice
 
 
+<<<<<<< HEAD
 # Another comment for git practice
 print("Hello")
 
 ||||||| 37fb3a0
 =======
+
+
+>>>>>>> refactoring
+||||||| 613e26b
+=======
+# commenting for refactoring
+
+
+# adding comment #2 for refactoring
+
+
+# last comment to be added
+
 
 
 >>>>>>> refactoring
