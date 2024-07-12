@@ -134,6 +134,7 @@ def main():
 
 if __name__ == "__main__":
 	main()
+<<<<<<< HEAD
 
 # Adding a comment for git practice
 
@@ -141,3 +142,8 @@ if __name__ == "__main__":
 # Another comment for git practice
 print("Hello")
 
+||||||| 37fb3a0
+=======
+
+
+>>>>>>> refactoring
